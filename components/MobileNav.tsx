@@ -34,12 +34,12 @@ const MobileNav = ({ user }: MobileNavProps) => {
         <SheetContent side="left" className="border-none bg-white">
           <Link href="/" className="cursor-pointer flex items-center gap-1 px-4">
             <Image 
-              src="/icons/logo.svg"
+              src="/icons/bitcoin1.png"
               width={34}
               height={34}
-              alt="Horizon logo"
+              alt="Fintech logo"
             />
-            <h1 className="text-26 font-ibm-plex-serif font-bold text-black-1">Horizon</h1>
+            <h1 className="text-26 font-ibm-plex-serif font-bold text-black-1">Fintech</h1>
           </Link>
           <div className="mobilenav-sheet">
             <SheetClose asChild>
