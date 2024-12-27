@@ -93,6 +93,11 @@ const AuthForm = ({ type }: { type: string }) => {
               alt="Fintech logo"
             />
             <h1 className="text-26 font-ibm-plex-serif font-bold text-black-1">Fintech</h1>
+            <div>
+              <h2>
+                آپ کے دل میں ہمارا اکاؤنٹ
+              </h2>
+            </div>
           </Link>
 
           <div className="flex flex-col gap-1 md:gap-3">
